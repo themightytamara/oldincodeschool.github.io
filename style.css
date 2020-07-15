@@ -23,7 +23,7 @@ html, body {
 a:link {font-color:#005073;
 }
 a:visited {
-  font-color:#107dac;
+  color:#107dac;
   font-style: italic;
 }
 a:hover {
@@ -32,7 +32,7 @@ a:hover {
 }
 
 a:active {
-  font-color:#005073;
+  color:#005073;
 }
 
 
