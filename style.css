@@ -27,6 +27,8 @@ html, body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  font-family: 'Anonymous Pro', monospace;
+  font-size: 14px;
 }
 
 .left {
