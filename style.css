@@ -19,6 +19,22 @@ html, body {
   min-height: 100%;
 }
 
+a:link {font-color:#005073;
+}
+a:visited {
+  font-color:#107dac;
+  font-style: italic;
+}
+a:hover {
+  font-weight: bold;
+  font-style: italic;
+}
+
+a:active {
+  font-color:#005073;
+}
+
+
 .left, .right {
   background-color: lightblue;
   margin: 0px;
@@ -36,20 +52,6 @@ html, body {
   justify-content: center;
 }
 
-
-a:link {font-color:#005073;
-}
-a:visited {
-  font-color:#107dac;
-  font-style: italic;
-}
-a:hover {
-  font-weight: bold;
-  font-style: italic;
-}
-
-a:active {
-}
 
 .profilepic {
   border-radius: 50%;
