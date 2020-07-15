@@ -36,6 +36,21 @@ html, body {
   justify-content: center;
 }
 
+
+a:link {font-color:#005073;
+}
+a:visited {
+  font-color:#107dac;
+  font-style: italic;
+}
+a:hover {
+  font-weight: bold;
+  font-style: italic;
+}
+
+a:active {
+}
+
 .profilepic {
   border-radius: 50%;
 }
